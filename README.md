@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:3b3b3b&height=200&section=header&text=Francis%20Kyle&fontSize=40&fontColor=ffffff"/>
 
-<h1 align="center">🙏 Stone Hashira Vibes 🙏</h1>
+<h1 align="center">🙏 Gyomeeeiii🙏</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=AAAAAA&center=true&vCenter=true&width=435&lines=Im+a+student;Fullstack+Learner;Stay+Calm+Stay+Strong" />

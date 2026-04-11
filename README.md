@@ -44,40 +44,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=franciskyle69&show_icons=true&theme=dark" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciskyle69&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=franciskyle69&theme=dark" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=franciskyle69&theme=dark" alt="Trophy" />
-</p>
----
-
-# 🏆 Achievements:
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=franciskyle69&theme=darkhub&no-frame=true&row=1&column=6"/>
-</p>
+![GitHub Stats](https://github-stats.vercel.app/api?username=franciskyle69&show_icons=true&theme=tokyonight)
 
 ---
 
-# 👀 Visitors:
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=franciskyle69&icon=6&color=12"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://github.com/franciskyle69/franciskyle69/blob/output/github-contribution-grid-snake.svg"/>

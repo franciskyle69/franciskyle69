@@ -57,6 +57,8 @@
 ---
 <p align="center"> <img src="https://github.com/franciskyle69/franciskyle69/blob/output/github-contribution-grid-snake.svg"/> </p>
 
+---
+
 <!-- FOOTER -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a2a2a,100:0f0f0f&height=120&section=footer"/>

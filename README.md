@@ -44,7 +44,8 @@
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=franciskyle69&count_private=true&show_icons=true&theme=github_dark)](https://github.com/franciskyle69)
+![GitHub Stats](https://github-stats.vercel.app/api?username=franciskyle69&show_icons=true&theme=tokyonight)
+
 
 
 

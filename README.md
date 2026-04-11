@@ -42,18 +42,23 @@
 
 ---
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=franciskyle69&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=franciskyle69&show_icons=true&theme=dark" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciskyle69&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciskyle69&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=franciskyle69&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=franciskyle69&theme=dark" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=franciskyle69&theme=dark" alt="Trophy" />
+</p>
 ---
 
 # 🏆 Achievements:

@@ -42,18 +42,16 @@
 
 ---
 
-# 📊 GitHub Stats:
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=franciskyle69&show_icons=true&theme=dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=franciskyle69&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciskyle69&layout=compact&theme=dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciskyle69&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=franciskyle69&theme=dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=franciskyle69&theme=tokyonight" />
 </p>
 
 ---

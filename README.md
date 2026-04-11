@@ -46,6 +46,9 @@
 
 ![GitHub Stats](https://github-stats.vercel.app/api?username=franciskyle69&show_icons=true&theme=tokyonight)
 
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=franciskyle69&theme=github_dark)
+
+
 ---
 
 

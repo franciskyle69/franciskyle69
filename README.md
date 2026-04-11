@@ -12,7 +12,7 @@
 
 # 💫 About Me:
 
-🙏 Im a student
+🙏 Student
 🪨 Calm mindset, always improving
 ⚡ Learning and building step by step
 

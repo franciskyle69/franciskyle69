@@ -42,14 +42,12 @@
 
 ---
 
-## 📊 GitHub Stats
+Stats
 
 ![GitHub Stats](https://github-stats.vercel.app/api?username=franciskyle69&show_icons=true&theme=tokyonight)
 
 
 
-
----
 
 
 

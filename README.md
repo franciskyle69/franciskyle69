@@ -7,7 +7,7 @@
 <!-- GYOMEI IMAGE (MAIN FOCUS) -->
 
 <p align="center">
-  <img src="https://wallpapercave.com/wp/wp13984997.jpg" width=""/>
+  <img src="https://media1.tenor.com/m/XiYJt8icLrIAAAAd/himejima-gyomei-stone-breathing.gif" width=""/>
 </p>
 
 <p align="center"><i>"Calm mind. Unbreakable will."</i></p>

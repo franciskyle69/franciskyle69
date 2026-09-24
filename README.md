@@ -1,8 +1,8 @@
 <!-- HEADER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:2a2a2a&height=180&section=header&text=Francis%20Kyle&fontSize=40&fontColor=ffffff"/>
 
-<h1 align="center">🙏 Gyomeeeiii 🙏</h1>
+
+
 
 <!-- GYOMEI IMAGE (MAIN FOCUS) -->
 
@@ -10,7 +10,7 @@
   <img src="https://media1.tenor.com/m/XiYJt8icLrIAAAAd/himejima-gyomei-stone-breathing.gif" width="1444px"/>
 </p>
 
-<p align="center"><i>"Calm mind. Unbreakable will."</i></p>
+
 
 ---
 
